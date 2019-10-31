@@ -1,4 +1,6 @@
 # Instruções de Uso
-Para rodar uma determinada instancia basta passar como parametro na hora de executar o nome da instancia
+Para rodar uma determinada instância basta passar como parâmetro na hora de executar o nome da instância.
+## Exemplo
+  ./main nome_da_instancia
 ## Observação
-Passar apenas uma instancia de cada vez.
+Passar apenas uma instância de cada vez.
