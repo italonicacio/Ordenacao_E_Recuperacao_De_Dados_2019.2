@@ -26,7 +26,7 @@ void PrintBinaryHeap(struct BinaryHeap *binaryheap)
 
 int Parent(int position)
 {
-    return position/2;
+    return (position-1)/2;
 }
 
 int Left(int position)

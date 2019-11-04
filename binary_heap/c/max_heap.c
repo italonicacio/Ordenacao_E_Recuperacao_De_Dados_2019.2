@@ -31,6 +31,6 @@ void MaxHeapify(struct BinaryHeap* binaryheap, int position)
 void BuildMaxHeap(struct BinaryHeap* binaryheap)
 {
     binaryheap->size = binaryheap->lenght;
-    for(int i = binaryheap->lenght/2; i>=0; i--)
+    for(int i = (binaryheap->lenght-1)/2; i>=0; i--)
         MaxHeapify(binaryheap, i);
 }
