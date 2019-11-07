@@ -5,8 +5,8 @@
 
 int isMaxHeap();
 
-void MaxHeapify();
+void MaxHeapify(struct BinaryHeap* binaryheap, int position);
 
-void BuildMaxHeap();
+void BuildMaxHeap(struct BinaryHeap* binaryheap);
 
 #endif
