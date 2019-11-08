@@ -1,0 +1,6 @@
+Problema: Caminho mínimo
+Instância - solução
+dij10 - 5183
+dij20 - 3190
+dij40 - 8928
+dij50 - 6764
