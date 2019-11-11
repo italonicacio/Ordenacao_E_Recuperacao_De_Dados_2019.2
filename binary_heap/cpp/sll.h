@@ -6,10 +6,10 @@
 struct Node
 {
 
-    Vertex* current_node;
-    Vertex* next_node;
+    Vertex* vertex;
+    Node* next_node;
 
-}
+};
 
 class SLL
 {

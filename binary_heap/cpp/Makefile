@@ -13,6 +13,8 @@ main.o: main.cpp
 binary_heap.o: binary_heap.cpp
 	$(CXX) $(FLAGS) binary_heap.cpp -c
 
+sll.o: sll.cpp
+	$(CXX) $(FLAGS) sll.cpp -c
 
 .PHONY: clean
 
