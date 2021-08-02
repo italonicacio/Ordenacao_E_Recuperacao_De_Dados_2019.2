@@ -1,5 +1,5 @@
 $ cat .gitattributes
-Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/c/instancias-num/*.in linguist-documentation
-Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/cpp/instancias-num/*.in linguist-documentation
-Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/cpp/cpp/instancias-num/*.in linguist-documentation
+Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/c/instancias-num/*.in filter=lfs diff=lfs merge=lfs -text
+Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/cpp/instancias-num/*.in filter=lfs diff=lfs merge=lfs -text
+Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/cpp/cpp/instancias-num/*.in filter=lfs diff=lfs merge=lfs -text
 
