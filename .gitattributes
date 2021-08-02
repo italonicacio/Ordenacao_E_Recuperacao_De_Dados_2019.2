@@ -1,4 +1,4 @@
-
+$ cat .gitattributes
 Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/c/*.in linguist-documentation
 Ordenacao_E_Recuperacao_De_Dados_2019.2/binary_heap/c++/*.in linguist-documentation
 
