@@ -2,4 +2,4 @@ $ cat .gitattributes
 # Sources
 *.c     text diff=c
 *.cpp   text diff=cpp
-num.*.*.in text diff=txt
+num.*.*.in linguist-documentation
