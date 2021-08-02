@@ -2,4 +2,4 @@ $ cat .gitattributes
 # Sources
 *.c     text diff=c
 *.cpp   text diff=cpp
-
+*.in text diff=txt
