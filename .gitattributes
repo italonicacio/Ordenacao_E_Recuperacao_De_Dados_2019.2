@@ -1,2 +1,2 @@
-$ cat .gitattributes
+
 *.in -text
