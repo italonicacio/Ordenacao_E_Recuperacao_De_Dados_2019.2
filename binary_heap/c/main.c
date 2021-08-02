@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     
     if(argc == 1)
     {
-        file = fopen("instancias-num/num.1000.1.in", "r");
+        file = fopen("instancias-num/num_1000_1.txt", "r");
         if(file == NULL)
         {
             puts("Erro ao ler o arquivo");
